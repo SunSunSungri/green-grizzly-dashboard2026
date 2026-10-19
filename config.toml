@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#2D6A43"
+backgroundColor = "#FAF8F3"
+secondaryBackgroundColor = "#E8F2DE"
+textColor = "#173B2A"
+font = "'Public Sans':https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;700&display=swap"
+headingFont = "'Public Sans':https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;700&display=swap"
+baseFontSize = 17
+baseRadius = "small"
